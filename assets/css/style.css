@@ -74,6 +74,7 @@ h1{
     color:#262626;
     font-family: Regular;
     font-size: 14px;
+    background-color: transparent;
 }
 .search{
     border-style: none;
@@ -173,7 +174,7 @@ h2{
     height: 20px;
     border-radius: 4px;
 }
- .Cat{
+.Cat{
      padding-right: 40px;
 } 
 .line1{
