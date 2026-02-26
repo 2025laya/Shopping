@@ -1666,6 +1666,8 @@ h3{
 }
 .head2{
     background-color: transparent;
+    padding-left: 0px;
+    padding-right: 0px;
 }
 .details{
     gap:1px;
@@ -1795,8 +1797,8 @@ hr{
     bottom: 0px;
 }
 footer{
-    padding-left: 0px;
-    padding-right: 0px;
+    padding-left: 6.25vw;
+    padding-right: 6.25vw;
 }
 .red2{
     height: 200px;
