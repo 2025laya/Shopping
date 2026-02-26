@@ -1799,37 +1799,37 @@ footer{
     padding-right: 0px;
 }
 .red2{
-    height: 200px;
-    width: 150px;
+    height: 250px;
+    width: 175px;
 }
 .red1{
-    height: 200px;
-     width: 150px;
+   height: 250px;
+    width: 175px;
 }
 .r1{
-    font-size: 17px;
+    font-size: 20px;
 }
 .r2{
-    font-size: 13px;
+    font-size: 16px;
 }
 .r3{
-    font-size: 10px;
-}
-.blue2{
-    height: 200px;
-    width: 150px;
-}
-.blue1{
-    height: 200px;
-    width: 150px;
-}
-.b1{
-    font-size: 17px;
-}
-.b2{
     font-size: 13px;
 }
+.blue2{
+    height: 250px;
+    width: 175px;
+}
+.blue1{
+   height: 250px;
+    width: 175px;
+}
+.b1{
+    font-size: 20px;
+}
+.b2{
+    font-size: 16px;
+}
 .b3{
-    font-size: 10px;
+    font-size: 13px;
 }
 }
