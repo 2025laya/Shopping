@@ -296,7 +296,7 @@ h2{
 .hero{
     display: flex;
     flex-direction: row;
-    justify-content: space-between;
+    justify-content: center;
     /* align-items: center; */
 }
 .Women{
@@ -759,14 +759,14 @@ font-family: Semi-Bold;
     font-family: Bold;
     font-size: 16px;
     color: white;
-    width: 220.67px;
+    width: 211.67px;
     height: 25px;
 }
 .regular-one{
     font-family: Regular;
     font-size: 14px;
     color: #C4C4C4;
-    width: 220.67px;
+    width: 211.67px;
     height: 25px;
 }
 .cost{
@@ -1790,44 +1790,45 @@ hr{
     margin-top: 0px;
 }
 .refrences{
-    top: 3600px;
+    top: 3400px;
+    bottom: 0px;
 }
 footer{
     padding-left: 0px;
     padding-right: 0px;
 }
 .red2{
-    height: 300px;
-    width: 200px;
+    height: 200px;
+    width: 150px;
 }
 .red1{
-    height: 300px;
-     width: 200px;
+    height: 200px;
+     width: 150px;
 }
 .r1{
-    font-size: 25px;
+    font-size: 17px;
 }
 .r2{
-    font-size: 20px;
+    font-size: 13px;
 }
 .r3{
-    font-size: 16px;
+    font-size: 10px;
 }
 .blue2{
-    height: 300px;
-    width: 200px;
+    height: 200px;
+    width: 150px;
 }
 .blue1{
-    height: 300px;
-    width: 200px;
+    height: 200px;
+    width: 150px;
 }
 .b1{
-    font-size: 25px;
+    font-size: 17px;
 }
 .b2{
-    font-size: 20px;
+    font-size: 13px;
 }
 .b3{
-    font-size: 16px;
+    font-size: 10px;
 }
 }
