@@ -209,11 +209,7 @@ h2{
 }
 .h23{
     display: flex;
-    justify-content: space-between;
-    gap: 20px;
-    padding-top: 34.6153%;
-    padding-bottom: 34.6153%;
-    
+    gap: 20px;  
 }
 .h231{
     display: flex;
@@ -1485,88 +1481,88 @@ hr{
 }
 .red1{
     width: 217px;
-    height: 400px;
+    height: 300px;
 }
 .red2{
      width: 217px;
-    height: 400px;
+    height: 300px;
 }
 .r1{
-    font-size: 33px;
+    font-size: 27px;
 }
 .r2{
-    font-size: 22px;
+    font-size: 18px;
 }
 .r3{
-    font-size: 16px;
+    font-size: 15px;
 }
 .green1{
     width: 217px;
-    height: 400px;
+    height: 300px;
 }
 .green2{
     width: 217px;
-    height: 400px;
+    height: 300px;
 }
 .g1{
-    font-size: 33px;
+    font-size: 27px;
 }
 .g2{
-    font-size: 22px;
+    font-size: 18px;
 }
 .g3{
-    font-size: 16px;
+    font-size: 15px;
 }
 .pink1{
     width: 217px;
-    height: 400px;
+    height: 300px;
 }
 .pink2{
     width: 217px;
-    height: 400px;
+    height: 300px;
 }
 .p11{
-    font-size: 33px;
+    font-size: 27px;
 }
 .p22{
-    font-size: 22px;
+    font-size: 18px;
 }
 .p3{
-    font-size: 16px;
+    font-size: 15px;
 }
 .blue1{
     width: 217px;
-    height: 400px;
+    height: 300px;
 }
 .blue2{
     width: 217px;
-    height: 400px;
+    height: 300px;
 }
 .b1{
-    font-size: 33px;
+    font-size: 27px;
 }
 .b2{
-    font-size: 22px;
+    font-size: 18px;
 }
 .b3{
-    font-size: 16px;
+    font-size: 15px;
 }
 .email{
     animation-name: email2;
 }
 @keyframes email2 {
 0%{
-    top: 5900px;
+    top: 5680px;
 }
  50%{
-    top: 5950px;
+    top: 5750px;
  } 
  100%{
-    top: 5900px;
+    top: 5680px;
  }  
 }
 .refrences{
-    top: 6780px;
+    top: 6600px;
 }
 .s51{
     width: 268.5px;
@@ -1668,6 +1664,7 @@ h3{
     background-color: transparent;
     padding-left: 0px;
     padding-right: 0px;
+   
 }
 .details{
     gap:1px;
@@ -1685,13 +1682,13 @@ h3{
 }
 @keyframes redd {
     0%{
-        transform: translateX(-6px);
+        transform: translateX(-2px);
     }
     50%{
-        transform: translateX(6px);
+        transform: translateX(2px);
     }
     100%{
-        transform: translateX(-6px);
+        transform: translateX(-2px);
     }
 
 }
@@ -1703,15 +1700,16 @@ h3{
     }
 @keyframes bluee {
     0%{
-        transform: translateX(6px);
+        transform: translateX(2px);
     }
     50%{
-        transform: translateX(-6px);
+        transform: translateX(-2px);
     }
     100%{
-        transform: translateX(6px);
+        transform: translateX(2px);
     }
 }
+
 .bold-one{
     width:144.67px;
     font-size: 13px;
@@ -1769,10 +1767,10 @@ hr{
     display: none;
 }
 .su1234{
-    gap: 200px;
+    gap: 100px;
 }
 .su5678{
-    gap:200px;
+    gap:100px;
 }
 .ppp{
     display: none;
@@ -1832,6 +1830,22 @@ footer{
     font-size: 13px;
 }
 .b3{
+    font-size: 10px;
+}
+.h121{
+    width: 110px;
+}
+.s11{
+    font-size: 17px;
+}
+.s121{
+    font-size: 9px;
+}
+.s122{
+    font-size: 8px;
+}
+.number-3{
+    padding: 0.5px 3px;
     font-size: 10px;
 }
 }
