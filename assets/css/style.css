@@ -1392,7 +1392,7 @@ hr{
     gap:25px
 }
 .head11{
-    gap:30vw
+    gap:35vw
 }
 .head12{
     gap:30vw
@@ -1411,11 +1411,10 @@ hr{
     display: none;
 }
 .head2{
-    justify-content: center;
-    gap: 80px;
+    gap: 65px;
 }
 .header2{
-    gap: 22px;
+    gap: 40px;
 }
 .h21{
     gap: 20px;
