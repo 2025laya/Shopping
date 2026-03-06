@@ -1389,8 +1389,15 @@ hr{
     flex-direction: column;
     justify-content: center;
     align-items: center;
-
+    gap:25px
 }
+.head11{
+    gap:30vw
+}
+.head12{
+    gap:30vw
+}
+
 .su1234{
     gap: 138px;
 }
@@ -1405,10 +1412,10 @@ hr{
 }
 .head2{
     justify-content: center;
-    gap: 20px;
+    gap: 80px;
 }
 .header2{
-    gap: 10px;
+    gap: 22px;
 }
 .h21{
     gap: 20px;
