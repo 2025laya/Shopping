@@ -1668,9 +1668,9 @@ h3{
 }
 .head2{
     background-color: transparent;
+    justify-content: center;
     padding-left: 0px;
-    padding-right: 0px;
-   
+    padding-right: 120px;
 }
 .details{
     gap:1px;
